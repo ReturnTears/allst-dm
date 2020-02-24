@@ -10,6 +10,7 @@ public class SegregationPrinciple1 {
 
     public static void main(String[] args) {
         A a = new A();
+        Inter1 v = new B();     // 父类的应用指向子类的对象，向上转型
         a.depend1(new B());     // A类通过接口去依赖B类
         a.depend2(new B());
         a.depend3(new B());
