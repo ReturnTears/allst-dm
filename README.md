@@ -26,8 +26,18 @@ dm: design mode 设计模式
 设计模式的重要性
 
 ```
-## 单一职责
+## 单一职责原则
 ```
 单一职责：single responsibility
 
+```
+
+## 接口隔离原则
+```
+
+```
+
+## 依赖倒转原则
+```
+依赖倒转原则：Dependence Inversion Princle （DIP）
 ```
