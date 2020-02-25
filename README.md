@@ -41,3 +41,10 @@ dm: design mode 设计模式
 ```
 依赖倒转原则：Dependence Inversion Princle （DIP）
 ```
+
+## 里氏替换原则
+```
+
+```
+
+
