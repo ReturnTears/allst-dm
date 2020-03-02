@@ -17,4 +17,13 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    /**
+     * 测试JVM中的单例模式
+     */
+    @Test
+    public void testJVMSingleton() {
+        // Runtime运用了单例模式 - 懒汉式
+        Runtime.getRuntime();
+    }
 }
