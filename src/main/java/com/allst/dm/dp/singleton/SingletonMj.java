@@ -16,6 +16,7 @@ public class SingletonMj {
         // System.out.println(instancce1 == instancce2);
         System.out.println(instancce1.hashCode());
         System.out.println(instancce2.hashCode());
+        instancce1.sayOk();
     }
 
 }

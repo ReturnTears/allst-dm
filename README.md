@@ -109,3 +109,8 @@ dependence、generalization、implementation、association、aggregation、compo
    
 
 ```
+## 工厂设计模式
+```text
+
+
+```

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.allst.dm.dp.factory.order.PizzaStore</OriginalElement>
+  <nodes>
+    <node x="157.19444444444446" y="0.0">com.allst.dm.dp.factory.pizza.Pizza</node>
+    <node x="0.0" y="213.0">com.allst.dm.dp.factory.pizza.GreekPizza</node>
+    <node x="164.0" y="440.0">com.allst.dm.dp.factory.order.PizzaStore</node>
+    <node x="182.0" y="213.0">com.allst.dm.dp.factory.pizza.CheesePizza</node>
+    <node x="174.5" y="315.0">com.allst.dm.dp.factory.order.OrderPizza</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.allst.dm.dp.factory.order.OrderPizza" target="com.allst.dm.dp.factory.pizza.Pizza">
+      <point x="59.0" y="-37.5" />
+      <point x="322.0" y="290.0" />
+      <point x="354.5" y="290.0" />
+      <point x="354.5" y="188.0" />
+      <point x="328.02777777777777" y="188.0" />
+      <point x="68.33333333333331" y="81.5" />
+    </edge>
+    <edge source="com.allst.dm.dp.factory.order.PizzaStore" target="com.allst.dm.dp.factory.order.OrderPizza">
+      <point x="0.0" y="-26.0" />
+      <point x="0.0" y="37.5" />
+    </edge>
+    <edge source="com.allst.dm.dp.factory.pizza.GreekPizza" target="com.allst.dm.dp.factory.pizza.Pizza">
+      <point x="0.0" y="-26.0" />
+      <point x="81.0" y="188.0" />
+      <point x="191.36111111111114" y="188.0" />
+      <point x="-68.33333333333331" y="81.5" />
+    </edge>
+    <edge source="com.allst.dm.dp.factory.order.OrderPizza" target="com.allst.dm.dp.factory.pizza.GreekPizza">
+      <point x="-59.0" y="-37.5" />
+      <point x="204.0" y="290.0" />
+      <point x="81.0" y="290.0" />
+      <point x="0.0" y="26.0" />
+    </edge>
+    <edge source="com.allst.dm.dp.factory.pizza.CheesePizza" target="com.allst.dm.dp.factory.pizza.Pizza">
+      <point x="0.0" y="-26.0" />
+      <point x="263.0" y="188.0" />
+      <point x="259.69444444444446" y="188.0" />
+      <point x="0.0" y="81.5" />
+    </edge>
+    <edge source="com.allst.dm.dp.factory.order.OrderPizza" target="com.allst.dm.dp.factory.pizza.CheesePizza">
+      <point x="0.0" y="-37.5" />
+      <point x="0.0" y="26.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="299.0" y="260.5" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

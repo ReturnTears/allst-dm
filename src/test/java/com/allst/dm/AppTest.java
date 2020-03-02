@@ -23,7 +23,7 @@ public class AppTest
      */
     @Test
     public void testJVMSingleton() {
-        // Runtime运用了单例模式 - 懒汉式
+        // Runtime运用了单例模式 - 饿汉式
         Runtime.getRuntime();
     }
 }
