@@ -14,6 +14,35 @@ import java.io.InputStreamReader;
  */
 public class OrderPizza {
 
+    // --------------------------------------使用简单工厂类----------------------------
+    // 定义一个简单工厂对象
+    SimpleFactory simpleFactory;
+    Pizza pizza = null;
+    // 构造器
+    public OrderPizza(SimpleFactory simpleFactory) {
+        // this.simpleFactory = simpleFactory;
+        setSimpleFactory(simpleFactory);
+    }
+
+    public void setSimpleFactory(SimpleFactory simpleFactory) {
+        this.simpleFactory = simpleFactory;
+        String orderType = "";
+        do {
+            orderType = getType();
+            pizza = this.simpleFactory.createPizza(orderType);
+            if (pizza != null) {
+                pizza.prepare();
+                pizza.bake();
+                pizza.cut();
+                pizza.box();
+            } else {
+                System.out.println("订购披萨失败~~~~");
+                break;
+            }
+        } while (true);
+    }
+
+    // --------------------使用传统的方法----------------------
     public OrderPizza() {
         Pizza pizza = null;
         String orderType;
