@@ -9,8 +9,10 @@
   </nodes>
   <notes />
   <edges />
-  <settings layout="Hierarchic Group" zoom="1.0" x="103.0" y="79.0" />
-  <SelectedNodes />
+  <settings layout="Hierarchic Group" zoom="1.0" x="110.5" y="88.5" />
+  <SelectedNodes>
+    <node>com.allst.dm.uml.composition.Head</node>
+  </SelectedNodes>
   <Categories>
     <Category>Fields</Category>
     <Category>Methods</Category>
