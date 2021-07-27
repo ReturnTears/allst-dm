@@ -203,3 +203,13 @@ java.unit.Arrays
 **JDK源码中的应用**
 String,Integer,Long,
 com.sun.org.apache.bcel.internal.generic.InstructionConstants,
+
+## 门面模式
+Facade
+为子系统中的一组接口提供一个一致的接口， Facade模式定义了一个高层接口，这个接口使得这一子系统更加容易使用
+应用场景：
+1、当您需要使用复杂子系统的有限但直接的接口时，使用Facade模式
+2、当您想要将子系统组织成层时， 使用Facade模式
+主要优点：
+简化客户端的调用
+
