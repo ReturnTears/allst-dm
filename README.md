@@ -186,12 +186,20 @@ RequestMappingInfo
 ## 原型模式
 指原型实例指定创建对象的种类， 并且通过拷贝这些原型创建新的对象
 ArrayList中有clone实现的浅拷贝
-应用场景：
+**应用场景**：
 当代码不应该依赖于需要复制的对象的具体类时，请使用Prototype模式
-主要优点：
+**主要优点**：
 1、可以不耦合具体类的情况下克隆对象
 2、避免重复的初始化代码
 3、更方便的构建复杂对象
-Spring源码中的应用：
+**Spring源码中的应用**：
 org.springframework.beans.factory.factory.AbstractBeanDefinition
 java.unit.Arrays
+
+## 享元模式
+运用共享技术有效地支持大量细粒度的对象
+**主要优点**
+如果系统有大量类似的对象， 可以节省大量的内存及CPU资源
+**JDK源码中的应用**
+String,Integer,Long,
+com.sun.org.apache.bcel.internal.generic.InstructionConstants,
