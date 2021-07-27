@@ -182,3 +182,16 @@ Connection 连接器类就是使用的该模式
 3、与不可变对象的配合使用
 源码应用场景：
 RequestMappingInfo
+
+## 原型模式
+指原型实例指定创建对象的种类， 并且通过拷贝这些原型创建新的对象
+ArrayList中有clone实现的浅拷贝
+应用场景：
+当代码不应该依赖于需要复制的对象的具体类时，请使用Prototype模式
+主要优点：
+1、可以不耦合具体类的情况下克隆对象
+2、避免重复的初始化代码
+3、更方便的构建复杂对象
+Spring源码中的应用：
+org.springframework.beans.factory.factory.AbstractBeanDefinition
+java.unit.Arrays
