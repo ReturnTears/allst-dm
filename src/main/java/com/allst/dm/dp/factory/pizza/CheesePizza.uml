@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>com.allst.dm.dp.factory.pizza.CheesePizza</OriginalElement>
+  <nodes>
+    <node x="0.0" y="212.0">com.allst.dm.dp.factory.pizza.StrawberryPizza</node>
+    <node x="265.5" y="0.0">com.allst.dm.dp.factory.pizza.Pizza</node>
+    <node x="345.0" y="212.0">com.allst.dm.dp.factory.pizza.PepperPizza</node>
+    <node x="504.0" y="212.0">com.allst.dm.dp.factory.pizza.GreekPizza</node>
+    <node x="186.0" y="212.0">com.allst.dm.dp.factory.pizza.CheesePizza</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="com.allst.dm.dp.factory.pizza.StrawberryPizza" target="com.allst.dm.dp.factory.pizza.Pizza">
+      <point x="0.0" y="-27.0" />
+      <point x="83.0" y="182.0" />
+      <point x="282.875" y="182.0" />
+      <point x="-52.125" y="81.0" />
+    </edge>
+    <edge source="com.allst.dm.dp.factory.pizza.PepperPizza" target="com.allst.dm.dp.factory.pizza.Pizza">
+      <point x="0.0" y="-27.0" />
+      <point x="414.5" y="192.0" />
+      <point x="352.375" y="192.0" />
+      <point x="17.375" y="81.0" />
+    </edge>
+    <edge source="com.allst.dm.dp.factory.pizza.GreekPizza" target="com.allst.dm.dp.factory.pizza.Pizza">
+      <point x="0.0" y="-27.0" />
+      <point x="573.5" y="182.0" />
+      <point x="387.125" y="182.0" />
+      <point x="52.125" y="81.0" />
+    </edge>
+    <edge source="com.allst.dm.dp.factory.pizza.CheesePizza" target="com.allst.dm.dp.factory.pizza.Pizza">
+      <point x="0.0" y="-27.0" />
+      <point x="255.5" y="192.0" />
+      <point x="317.625" y="192.0" />
+      <point x="-17.375" y="81.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="321.5" y="133.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

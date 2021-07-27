@@ -3,30 +3,16 @@
   <ID>JAVA</ID>
   <OriginalElement>com.allst.dm.uml.composition.Head</OriginalElement>
   <nodes>
-    <node x="110.0" y="0.0">com.allst.dm.uml.composition.IDCard</node>
-    <node x="0.0" y="80.0">com.allst.dm.uml.composition.Person</node>
-    <node x="14.0" y="0.0">com.allst.dm.uml.composition.Head</node>
+    <node x="0.0" y="121.0">com.allst.dm.uml.composition.IDCard</node>
+    <node x="0.0" y="0.0">com.allst.dm.uml.composition.Person</node>
+    <node x="139.0" y="121.0">com.allst.dm.uml.composition.Head</node>
   </nodes>
   <notes />
-  <edges>
-    <edge source="com.allst.dm.uml.composition.Person" target="com.allst.dm.uml.composition.IDCard">
-      <point x="52.0" y="-37.0" />
-      <point x="130.0" y="55.0" />
-      <point x="155.5" y="55.0" />
-      <point x="0.0" y="15.0" />
-    </edge>
-    <edge source="com.allst.dm.uml.composition.Person" target="com.allst.dm.uml.composition.Head">
-      <point x="-52.0" y="-37.0" />
-      <point x="26.0" y="55.0" />
-      <point x="33.0" y="55.0" />
-      <point x="-19.0" y="15.0" />
-    </edge>
-  </edges>
-  <settings layout="Hierarchic Group" zoom="1.0" x="45.5" y="90.0" />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="108.5" y="86.5" />
   <SelectedNodes />
   <Categories>
     <Category>Fields</Category>
-    <Category>Methods</Category>
   </Categories>
   <SCOPE>All</SCOPE>
   <VISIBILITY>private</VISIBILITY>

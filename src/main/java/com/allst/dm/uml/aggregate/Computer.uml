@@ -3,27 +3,16 @@
   <ID>JAVA</ID>
   <OriginalElement>com.allst.dm.uml.aggregate.Computer</OriginalElement>
   <nodes>
-    <node x="128.75" y="0.0">com.allst.dm.uml.aggregate.Mouse</node>
-    <node x="10.75" y="0.0">com.allst.dm.uml.aggregate.Monitor</node>
-    <node x="0.0" y="80.0">com.allst.dm.uml.aggregate.Computer</node>
+    <node x="147.0" y="229.0">com.allst.dm.uml.aggregate.Mouse</node>
+    <node x="0.0" y="229.0">com.allst.dm.uml.aggregate.Monitor</node>
+    <node x="0.0" y="0.0">com.allst.dm.uml.aggregate.Computer</node>
   </nodes>
   <notes />
-  <edges>
-    <edge source="com.allst.dm.uml.aggregate.Computer" target="com.allst.dm.uml.aggregate.Mouse">
-      <point x="87.75" y="-81.5" />
-      <point x="204.75" y="55.0" />
-      <point x="191.75" y="55.0" />
-      <point x="21.0" y="15.0" />
-    </edge>
-    <edge source="com.allst.dm.uml.aggregate.Computer" target="com.allst.dm.uml.aggregate.Monitor">
-      <point x="-87.75" y="-81.5" />
-      <point x="29.25" y="55.0" />
-      <point x="35.25" y="55.0" />
-      <point x="-24.5" y="15.0" />
-    </edge>
-  </edges>
-  <settings layout="Hierarchic Group" zoom="1.0" x="53.0" y="90.0" />
-  <SelectedNodes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="1.0" x="116.5" y="140.5" />
+  <SelectedNodes>
+    <node>com.allst.dm.uml.aggregate.Computer</node>
+  </SelectedNodes>
   <Categories>
     <Category>Fields</Category>
     <Category>Methods</Category>
