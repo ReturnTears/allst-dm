@@ -229,3 +229,21 @@ Adapter
 ApplicationListener
 ArrayList.asList(xxx)
 
+## 装饰器模式
+模式定义：
+在不改变原有对象的基础上，将功能附加到对象上
+应用场景：
+扩展一个类的功能或给哟个类添加附加职责
+主要优点：
+1、不改变原有对象的情况下给一个对象扩展功能
+2、使用不同的组合可以实现不同的效果
+3、符合开闭原则
+**JDK源码中的应用**
+Servlet API:
+javax.servlet.http.HttpServletRequestWrapper
+javax.servlet.http.HttpServletResponseWrapper
+
+
+
+
+
