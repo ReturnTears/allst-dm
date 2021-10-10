@@ -285,3 +285,10 @@ javax.servlet.http.HttpServletResponseWrapper
 
 
 
+# Git 
+```text
+Git提交报错：
+OpenSSL SSL_read: Connection was reset, errno 10054 错误解决
+使用如下命令：
+git config --global http.sslVerify "false"
+``` 
