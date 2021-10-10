@@ -11,7 +11,7 @@ public class LiskovSubstitution {
     public static void main(String[] args) {
         AA aa = new AA();
         System.out.println("22 - 17 = " + aa.funcOne(22, 17));
-        System.out.println("13 - 17 = " + aa.funcOne(22, 17));
+        System.out.println("13 - 17 = " + aa.funcOne(13, 17));
 
         BB b = new BB();
         //因为B类不再继承A类，因此调用者，不会再func1是求减法
@@ -41,7 +41,7 @@ class AA extends Base {
         if (n1 > n2) {
             return n1 - n2;
         } else {
-            return n2 - n1;
+            return -(n2 - n1);
         }
     }
 }
