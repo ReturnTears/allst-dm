@@ -16,6 +16,7 @@ public class AppTest
     public void shouldAnswerWithTrue()
     {
         assertTrue( true );
+        System.out.println(Integer.valueOf("05null".replace("null", "")));
     }
 
     /**
