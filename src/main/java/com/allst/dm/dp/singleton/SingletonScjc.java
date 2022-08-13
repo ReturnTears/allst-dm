@@ -20,9 +20,12 @@ public class SingletonScjc {
 
 class Singleton5 {
 
+    /**
+     * volatile关键字可以操作系统可以对指令进行重排序，在多线程环境下保证线程安全
+     */
     private static volatile Singleton5 instance;
 
-    public Singleton5() {
+    private Singleton5() {
     }
 
     /**
