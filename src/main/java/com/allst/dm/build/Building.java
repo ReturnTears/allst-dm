@@ -17,7 +17,7 @@ import java.util.List;
  */
 public class Building {
     // 使用List来模拟建筑物组件的组装
-    private List<String> buildingComponents = Lists.newArrayList();
+    private final List<String> buildingComponents = Lists.newArrayList();
 
     // 地基
     public void setBasement(String basement) {
