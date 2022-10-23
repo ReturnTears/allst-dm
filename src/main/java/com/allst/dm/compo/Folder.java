@@ -20,4 +20,13 @@ public class Folder extends Node {
     protected void addChild(Node child) {
         childrenNodes.add(child);
     }
+
+    @Override
+    protected void tree(int space) {
+        super.tree(space);
+        space++;
+        for (Node node : childrenNodes) {
+            node.tree(space);
+        }
+    }
 }
