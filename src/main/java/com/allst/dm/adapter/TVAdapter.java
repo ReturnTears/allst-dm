@@ -1,6 +1,8 @@
 package com.allst.dm.adapter;
 
 /**
+ * 类适配器
+ * 
  * 电视机专属适配器类
  *
  * @author Hutu

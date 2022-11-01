@@ -234,7 +234,7 @@ ArrayList中有clone实现的浅拷贝
 org.springframework.beans.factory.factory.AbstractBeanDefinition
 java.unit.Arrays
 
-## 享元模式
+## 享元模式 flyweight
 运用共享技术有效地支持大量细粒度的对象
 **主要优点**
 如果系统有大量类似的对象， 可以节省大量的内存及CPU资源

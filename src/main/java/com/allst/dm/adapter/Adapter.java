@@ -1,12 +1,14 @@
 package com.allst.dm.adapter;
 
 /**
+ * 对象适配器
+ *
  * @author Hutu
  * @since 2022-10-25 下午 09:35
  */
 public class Adapter implements TriplePin {
 
-    private DualPin dualPin;
+    private final DualPin dualPin;
 
     public Adapter(DualPin dualPin) {
         this.dualPin = dualPin;
