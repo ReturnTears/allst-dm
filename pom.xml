@@ -54,6 +54,11 @@
       <artifactId>guava</artifactId>
       <version>30.0-android</version>
     </dependency>
+    <dependency>
+      <groupId>cn.hutool</groupId>
+      <artifactId>hutool-core</artifactId>
+      <version>5.8.9</version>
+    </dependency>
   </dependencies>
 
   <build>
