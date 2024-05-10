@@ -1,0 +1,1 @@
+example1使用服务定位模式消除代码中的if-else
