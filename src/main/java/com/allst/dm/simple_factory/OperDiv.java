@@ -8,7 +8,7 @@ public class OperDiv extends Operation {
     @Override
     public double getResult(double numberA, double numberB) {
         if (numberB == 0) {
-
+            return 0;
         }
         return numberA / numberB;
     }

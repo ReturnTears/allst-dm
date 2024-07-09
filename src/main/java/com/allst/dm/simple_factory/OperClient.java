@@ -10,5 +10,10 @@ public class OperClient {
         operation.setNumberA(1);
         operation.setNumberB(2);
         System.out.println(operation.getResult(10, 20));
+
+        Operation oper = OperNewFactory.createOperate("pow");
+        oper.setNumberA(1);
+        oper.setNumberB(2);
+        System.out.println(oper.getResult(2, 4));
     }
 }

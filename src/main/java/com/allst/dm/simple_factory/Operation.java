@@ -21,6 +21,6 @@ public abstract class Operation {
 
     //public abstract double getResult();
     public double getResult(double numberA, double numberB) {
-        return numberA + numberB;
+        return numberA * 1 + numberB * 1;
     }
 }
