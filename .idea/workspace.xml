@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="21e67cb3-95d6-44ea-9e9d-b71186c77228" name="Default Changelist" comment="设计模式:工厂方法模式">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/allst/dm/case1/Glyph.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Program Files/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="E:\Program Files\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="1gK9XBaUXB6TBErHR5q7cT2Tj9A" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/IdeaProjects/allst-dm/src/main/java/com/allst/dm/dp/factory&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;bbe73b8613ae52194b6a6303f0b85426&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RebelAgentSelection">
+    <selection>xr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\IdeaProjects\allst-dm\src\main\resources\picture" />
+      <recent name="E:\Projects\allst-dm\src\main\java\com\allst\dm\dp\factory\pizza" />
+      <recent name="E:\Projects\allst-dm\src\main\java\com\allst\dm\dp\singleton" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.allst.dm.simple_factory" />
+      <recent name="com.allst.dm.strategy" />
+      <recent name="com.allst.dm.combat.example1" />
+      <recent name="com.allst.dm.bridge" />
+      <recent name="com.allst.dm.proxy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.OperClient">
+    <configuration name="CashClient2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allst.dm.simple_factory.CashClient2" />
+      <module name="allst-dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allst.dm.simple_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allst.dm.decorate2.Client" />
+      <module name="allst-dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allst.dm.decorate2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoratorClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allst.dm.decorate.DecoratorClient" />
+      <module name="allst-dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allst.dm.decorate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allst.dm.simple_factory.OperClient" />
+      <module name="allst-dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allst.dm.simple_factory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.allst.dm.agency.Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.allst.dm.agency.Client" />
+      <module name="allst-dm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.allst.dm.agency.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.OperClient" />
+        <item itemvalue="Application.com.allst.dm.agency.Client" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.DecoratorClient" />
+        <item itemvalue="Application.CashClient2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21e67cb3-95d6-44ea-9e9d-b71186c77228" name="Default Changelist" comment="" />
+      <created>1582550934968</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582550934968</updated>
+      <workItem from="1582550936860" duration="12161000" />
+      <workItem from="1582597972615" duration="15504000" />
+      <workItem from="1583075595669" duration="2130000" />
+      <workItem from="1583164007919" duration="5436000" />
+      <workItem from="1583246355887" duration="3385000" />
+      <workItem from="1597852455758" duration="81000" />
+      <workItem from="1597934779598" duration="1033000" />
+      <workItem from="1597936638285" duration="959000" />
+      <workItem from="1598064179391" duration="23000" />
+      <workItem from="1627316546450" duration="25704000" />
+      <workItem from="1627834406237" duration="2186000" />
+      <workItem from="1628774959729" duration="2085000" />
+      <workItem from="1631636697037" duration="1716000" />
+      <workItem from="1632732452072" duration="3166000" />
+      <workItem from="1632750315595" duration="1615000" />
+      <workItem from="1632972193809" duration="3080000" />
+      <workItem from="1632990095172" duration="1504000" />
+      <workItem from="1633619648803" duration="84000" />
+      <workItem from="1633620478651" duration="60000" />
+      <workItem from="1633620574536" duration="983000" />
+      <workItem from="1633621633699" duration="113000" />
+      <workItem from="1633657029337" duration="789000" />
+      <workItem from="1633744518765" duration="3850000" />
+      <workItem from="1633870666462" duration="4797000" />
+      <workItem from="1647410954864" duration="303000" />
+      <workItem from="1647411305541" duration="594000" />
+      <workItem from="1647957265079" duration="2792000" />
+      <workItem from="1649336897472" duration="19000" />
+      <workItem from="1649336976620" duration="73000" />
+      <workItem from="1649771476248" duration="609000" />
+      <workItem from="1658243614337" duration="38000" />
+      <workItem from="1658244455530" duration="15000" />
+      <workItem from="1660403205962" duration="571000" />
+      <workItem from="1665581561775" duration="2280000" />
+      <workItem from="1665666842898" duration="2245000" />
+      <workItem from="1665758927854" duration="604000" />
+      <workItem from="1666271251890" duration="2014000" />
+      <workItem from="1666528184609" duration="3709000" />
+      <workItem from="1666617349582" duration="14000" />
+      <workItem from="1666617414324" duration="1700000" />
+      <workItem from="1666703691198" duration="1648000" />
+      <workItem from="1667311136053" duration="2440000" />
+      <workItem from="1667530274489" duration="656000" />
+      <workItem from="1667998869041" duration="2098000" />
+      <workItem from="1668324581707" duration="5737000" />
+      <workItem from="1668416464321" duration="5605000" />
+      <workItem from="1668864665944" duration="51000" />
+      <workItem from="1668864757634" duration="85000" />
+      <workItem from="1676017433988" duration="27000" />
+      <workItem from="1676017495532" duration="621000" />
+      <workItem from="1695628334450" duration="22000" />
+      <workItem from="1698073008547" duration="1537000" />
+      <workItem from="1698109600045" duration="5202000" />
+      <workItem from="1698631891569" duration="1934000" />
+      <workItem from="1698768442002" duration="23000" />
+      <workItem from="1698808252711" duration="144000" />
+      <workItem from="1698909945528" duration="6244000" />
+      <workItem from="1709226916621" duration="425000" />
+      <workItem from="1710943055042" duration="1667000" />
+      <workItem from="1715350366451" duration="3464000" />
+      <workItem from="1715354354464" duration="70000" />
+      <workItem from="1716994575271" duration="1052000" />
+      <workItem from="1717163326701" duration="2413000" />
+      <workItem from="1717252472312" duration="36000" />
+      <workItem from="1717320119474" duration="6860000" />
+      <workItem from="1717509220797" duration="3201000" />
+      <workItem from="1720103057192" duration="420000" />
+      <workItem from="1720238337789" duration="1105000" />
+      <workItem from="1720277359145" duration="367000" />
+      <workItem from="1720277855029" duration="1664000" />
+      <workItem from="1720319230048" duration="13115000" />
+      <workItem from="1720440339691" duration="2120000" />
+      <workItem from="1720527805352" duration="4841000" />
+      <workItem from="1729171215487" duration="59000" />
+      <workItem from="1729605682129" duration="1082000" />
+      <workItem from="1730903805208" duration="692000" />
+    </task>
+    <task id="LOCAL-00001" summary="单一职责原则">
+      <created>1582556821029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582556821030</updated>
+    </task>
+    <task id="LOCAL-00002" summary="接口隔离原则">
+      <created>1582561459198</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582561459198</updated>
+    </task>
+    <task id="LOCAL-00003" summary="接口隔离原则">
+      <created>1582562024882</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1582562024883</updated>
+    </task>
+    <task id="LOCAL-00004" summary="依赖倒转原则&#10;依赖关系传递的三种方式">
+      <created>1582565940973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582565940973</updated>
+    </task>
+    <task id="LOCAL-00005" summary="里斯替换原则">
+      <created>1582600301603</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1582600301603</updated>
+    </task>
+    <task id="LOCAL-00006" summary="开闭原则">
+      <created>1582603304356</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582603304356</updated>
+    </task>
+    <task id="LOCAL-00007" summary="迪米特法则">
+      <created>1582617632852</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582617632852</updated>
+    </task>
+    <task id="LOCAL-00008" summary="UML类图关系&#10;依赖、泛化(继承)、实现">
+      <created>1582626737589</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1582626737589</updated>
+    </task>
+    <task id="LOCAL-00009" summary="UML类图关系&#10;关联、聚合、组合">
+      <created>1582636779284</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1582636779284</updated>
+    </task>
+    <task id="LOCAL-00010" summary="设计模式概述">
+      <created>1582638321166</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1582638321166</updated>
+    </task>
+    <task id="LOCAL-00011" summary="单例模式 -- 饿汉式(静态变量)">
+      <created>1583076682869</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1583076682869</updated>
+    </task>
+    <task id="LOCAL-00012" summary="单例模式 -- 懒汉式">
+      <created>1583077549909</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1583077549909</updated>
+    </task>
+    <task id="LOCAL-00013" summary="单例模式 -- 双重检查、静态内部类、枚举">
+      <created>1583166393205</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1583166393205</updated>
+    </task>
+    <task id="LOCAL-00014" summary="JVM中运用的单例模式&#10;单例模式注意事项">
+      <created>1583167151275</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1583167151275</updated>
+    </task>
+    <task id="LOCAL-00015" summary="简单工厂模式">
+      <created>1583169466978</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1583169466978</updated>
+    </task>
+    <task id="LOCAL-00016" summary="简单工厂模式又称静态工厂模式">
+      <created>1583255528877</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1583255528877</updated>
+    </task>
+    <task id="LOCAL-00017" summary="单例模式">
+      <created>1627354917414</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1627354917414</updated>
+    </task>
+    <task id="LOCAL-00018" summary="pom">
+      <created>1627355783682</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1627355783682</updated>
+    </task>
+    <task id="LOCAL-00019" summary="工厂方法模式">
+      <created>1627376154789</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1627376154789</updated>
+    </task>
+    <task id="LOCAL-00020" summary="抽象工厂模式">
+      <created>1627378019228</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1627378019228</updated>
+    </task>
+    <task id="LOCAL-00021" summary="建造者模式">
+      <created>1627381193951</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1627381193951</updated>
+    </task>
+    <task id="LOCAL-00022" summary="原型模式">
+      <created>1627384776490</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1627384776490</updated>
+    </task>
+    <task id="LOCAL-00023" summary="享元模式">
+      <created>1627395636470</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1627395636470</updated>
+    </task>
+    <task id="LOCAL-00024" summary="门面模式">
+      <created>1627396859353</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1627396859353</updated>
+    </task>
+    <task id="LOCAL-00025" summary="适配器模式">
+      <created>1627836321984</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1627836321985</updated>
+    </task>
+    <task id="LOCAL-00026" summary="装饰器模式">
+      <created>1628776998625</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1628776998625</updated>
+    </task>
+    <task id="LOCAL-00027" summary="开闭原则">
+      <created>1632751619196</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1632751619196</updated>
+    </task>
+    <task id="LOCAL-00028" summary="里氏替换原则">
+      <created>1633872479248</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1633872479248</updated>
+    </task>
+    <task id="LOCAL-00029" summary="迪米特法则原则">
+      <created>1633874531003</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1633874531003</updated>
+    </task>
+    <task id="LOCAL-00030" summary="接口隔离原则&amp;依赖倒转原则">
+      <created>1633875005435</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1633875005435</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Git提交报错解决">
+      <created>1633875507714</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1633875507714</updated>
+    </task>
+    <task id="LOCAL-00032" summary="策略模式">
+      <created>1647961536268</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1647961536268</updated>
+    </task>
+    <task id="LOCAL-00033" summary="volatile">
+      <created>1660403447999</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1660403447999</updated>
+    </task>
+    <task id="LOCAL-00034" summary="重拾建造者模式">
+      <created>1665584648677</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1665584648677</updated>
+    </task>
+    <task id="LOCAL-00035" summary="建造者模式简单案例">
+      <created>1665668607933</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1665668607933</updated>
+    </task>
+    <task id="LOCAL-00036" summary="门面模式(外观模式)简单案例">
+      <created>1666273658764</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1666273658764</updated>
+    </task>
+    <task id="LOCAL-00037" summary="组合模式简单案例">
+      <created>1666531340705</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1666531340705</updated>
+    </task>
+    <task id="LOCAL-00038" summary="组合模式简单案例">
+      <created>1666532991226</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1666532991226</updated>
+    </task>
+    <task id="LOCAL-00039" summary="组合模式简单案例">
+      <created>1666533495963</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1666533495963</updated>
+    </task>
+    <task id="LOCAL-00040" summary="装饰器模式简单案例">
+      <created>1666618724021</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1666618724021</updated>
+    </task>
+    <task id="LOCAL-00041" summary="装饰器模式简单案例">
+      <created>1666619099070</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1666619099070</updated>
+    </task>
+    <task id="LOCAL-00042" summary="适配器模式简单案例">
+      <created>1666705541897</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1666705541898</updated>
+    </task>
+    <task id="LOCAL-00043" summary="修改适配器模式简单案例、享元模式简单案例">
+      <created>1667313077784</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1667313077784</updated>
+    </task>
+    <task id="LOCAL-00044" summary="修改适配器模式简单案例、享元模式简单案例">
+      <created>1667569544394</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1667569544394</updated>
+    </task>
+    <task id="LOCAL-00045" summary="享元模式简单案例">
+      <created>1668000333827</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1668000333827</updated>
+    </task>
+    <task id="LOCAL-00046" summary="代理模式简单案例">
+      <created>1668330095529</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1668330095529</updated>
+    </task>
+    <task id="LOCAL-00047" summary="代理模式png">
+      <created>1668416830119</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1668416830119</updated>
+    </task>
+    <task id="LOCAL-00048" summary="桥接模式 Bridge 案例">
+      <created>1668419006106</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1668419006106</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Java设计模式深入研究">
+      <created>1668421813070</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1668421813070</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="建造者模式简单案例" />
+    <MESSAGE value="门面模式(外观模式)简单案例" />
+    <MESSAGE value="组合模式简单案例" />
+    <MESSAGE value="装饰器模式简单案例" />
+    <MESSAGE value="适配器模式简单案例" />
+    <MESSAGE value="修改适配器模式简单案例、享元模式简单案例" />
+    <MESSAGE value="享元模式简单案例" />
+    <MESSAGE value="代理模式简单案例" />
+    <MESSAGE value="代理模式png" />
+    <MESSAGE value="桥接模式 Bridge 案例" />
+    <MESSAGE value="Java设计模式深入研究" />
+    <MESSAGE value="Java设计模式" />
+    <MESSAGE value="Java设计模式:服务定位模式" />
+    <MESSAGE value="《设计模式之美》笔记" />
+    <MESSAGE value="《设计模式之美》笔记之面向对象" />
+    <MESSAGE value="《设计模式之美》SOLID 原则" />
+    <MESSAGE value="《设计模式之美》设计原则" />
+    <MESSAGE value="设计模式:简单工厂模式" />
+    <MESSAGE value="设计模式:简单工厂模式2" />
+    <MESSAGE value="设计模式:策略模式" />
+    <MESSAGE value="设计模式:使用策略模式调整简单工厂" />
+    <MESSAGE value="设计模式:使用策略模式调整简单工厂2" />
+    <MESSAGE value="设计模式:装饰器模式" />
+    <MESSAGE value="设计模式:代理模式" />
+    <MESSAGE value="设计模式:工厂方法模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="设计模式:工厂方法模式" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
